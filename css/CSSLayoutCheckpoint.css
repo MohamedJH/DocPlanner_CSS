@@ -1,0 +1,213 @@
+#navbarContent .item{
+  color: #00b39b;
+  text-decoration: none !important;
+}
+.dropdownItem{
+  list-style: none;
+  text-decoration: none !important;
+  color: #00b39b;
+}
+.dropdownItem:hover{
+  color: #00b39b;
+
+}
+.position-fixed{
+  z-index: 3;
+  width: 1300px;
+  margin-left: -100px;
+}
+
+#slogan {
+  color: #00b39b;
+  font-size: 2.125rem;
+  font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
+  font-weight: 300;
+  text-decoration: none !important;
+}
+
+.About {
+  height: 159px;
+  text-align: justify;
+  font-size: 16px;
+  line-height: 28px;
+  padding: 23px 0px 23px 0;
+  color: #747474;
+  padding-left: 45px;
+}
+.box {
+  padding: 22px 40px 0px 40px;
+  height: 400px;
+  width: 477;
+}
+
+.card-subtitle {
+  height: 18px;
+  font-size: 14px;
+}
+.card-text {
+  font-size: 26px;
+  font-weight: 300px;
+  line-height: 34px;
+}
+.figure {
+  width: 100%;
+  height: 25%;
+  overflow: hidden;
+}
+.card-img-bottom {
+  margin-left: 30%;
+}
+
+.navbar-brand {
+  height: 100%;
+  width: 20%;
+  font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
+  font-size: 1.625em;
+  font-weight: 300px;
+  line-height: 34px;
+  color: #00b39b;
+  width: 400px;
+  letter-spacing: 0.3px;
+}
+.Brand {
+  font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
+  font-weight: bolder;
+  color: #ababab;
+}
+.Brand:hover {
+  color: #00b39b;
+  text-decoration: none;
+}
+
+span::after {
+}
+#Stat {
+  height: 600px;
+  width: 1300px;
+  margin-top: 50px;
+  margin-left: -100px;
+  padding-left: 50px;
+  /* margin: 50px -100px 50px -100px; */
+  background-color: #e5faf8;
+  overflow: hidden;
+}
+.Header {
+  height: 20%;
+  font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
+  color: #00b39b;
+  margin-top: 40px;
+}
+.header h1 {
+  font-size: 33px;
+  font-weight: 300px;
+  line-height: 44px;
+}
+.sub {
+  margin-top: 10px;
+  height: 15%;
+  width: 100%;
+  font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
+  color: #747474;
+  font-size: 14px;
+  line-height: 24px;
+}
+.logo {
+  /* border: 1px solid red; */
+  height: 100%;
+  width: 75%;
+  margin-top: 60px;
+  background-image: url(/images/docplannerlogo.png);
+  background-repeat: no-repeat;
+  overflow: hidden;
+}
+.Statcard {
+  width: 228px;
+  height: 250px;
+  background-color: white;
+  border-radius: 5px;
+}
+.card-img-top {
+  margin: 50px 75px 0px;
+}
+.Statcard-title {
+  text-align: center;
+  font-size: 23px;
+  font-weight: 300px;
+  color: #00b39b;
+}
+
+.Statcard-text {
+  text-align: center;
+  font-size: 12px;
+  line-height: 18px;
+  color: #747474;
+}
+
+#offres {
+  flex-direction: column;
+  height: 1015px;
+  width: 1015px;
+  margin-top: 50px;
+  /* background-color: violet; */
+}
+.OffresTitle {
+  height: 100px;
+  width: 50%;
+  margin: 30px auto 20px;
+  text-align: center;
+  color: #00b39b;
+  font-size: 30px;
+  font-weight: 300px;
+}
+.OffresSub {
+  height: 75px;
+  width: 510px;
+  margin: 5px auto 20px;
+  font-family: Arial, Helvetica, sans-serif;
+  text-align: center;
+  color: #00b39b;
+  font-size: 14px;
+  line-height: 24px;
+}
+.OffresCards {
+  height: 740px;
+  width: 100%;
+  /* background-color: yellow; */
+  margin: 0px;
+}
+.OffresCards .card:hover {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.OffresCards .btn {
+  background: #3d83df;
+  font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
+  line-height: 2em;
+  color: #fff;
+  font-weight: bolder;
+  font-size: 0.75rem;
+  text-align: center;
+  text-transform: uppercase;
+  font-size: 0.625rem;
+}
+.OffresCards .btn:hover {
+  color: #fff;
+  background-color: rgb(38, 105, 194);
+  text-decoration: none !important;
+}
+footer {
+  border-top: 1px solid rgba(128, 128, 0, 0.192);
+  padding-top: 20px;
+  text-align: center;
+  height: 113px;
+  width: 1300px;
+}
+.note,
+.leaders li {
+  display: inline;
+  list-style: none;
+  color: #ababab;
+  font-size: 12px;
+  line-height: 16px;
+  text-align: center;
+}
